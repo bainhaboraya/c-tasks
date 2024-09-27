@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1697401017 source:c:\users\imex\onedrive\desktop\c language\highlightedmenupro\main.c
+	<stdio.h>
+	<stdlib.h>
+	<Windows.h>
+
+1697433084 source:d:\c language iti\day6\highlightedmenupro\main.c
+	<stdio.h>
+	<stdlib.h>
+	<Windows.h>
+	<string.h>
+	<stdbool.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1697056418 source:c:\users\imex\onedrive\desktop\day 1\highighted menue\main.c
+	<stdio.h>
+	<stdlib.h>
+	<Windows.h>
+

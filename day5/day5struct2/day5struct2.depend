@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1697912221 source:d:\c language iti\day5\day5struct2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
